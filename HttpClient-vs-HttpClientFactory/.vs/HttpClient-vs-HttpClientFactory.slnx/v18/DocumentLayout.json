@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Youtube Videos\\1-DotNet\\httpclient-vs-httpclientfactory\\HttpClient-vs-HttpClientFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79BB64CC-1DF1-4929-A13B-BEC590B0D8CF}|HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory.csproj|d:\\youtube videos\\1-dotnet\\httpclient-vs-httpclientfactory\\httpclient-vs-httpclientfactory\\httpclient-vs-httpclientfactory\\httpclient-vs-httpclientfactory.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{79BB64CC-1DF1-4929-A13B-BEC590B0D8CF}|HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory.csproj|solutionrelative:httpclient-vs-httpclientfactory\\httpclient-vs-httpclientfactory.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BB64CC-1DF1-4929-A13B-BEC590B0D8CF}|HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory.csproj|d:\\youtube videos\\1-dotnet\\httpclient-vs-httpclientfactory\\httpclient-vs-httpclientfactory\\httpclient-vs-httpclientfactory\\controllers\\httpclientfactorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BB64CC-1DF1-4929-A13B-BEC590B0D8CF}|HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory.csproj|solutionrelative:httpclient-vs-httpclientfactory\\controllers\\httpclientfactorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BB64CC-1DF1-4929-A13B-BEC590B0D8CF}|HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory.csproj|d:\\youtube videos\\1-dotnet\\httpclient-vs-httpclientfactory\\httpclient-vs-httpclientfactory\\httpclient-vs-httpclientfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BB64CC-1DF1-4929-A13B-BEC590B0D8CF}|HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory.csproj|solutionrelative:httpclient-vs-httpclientfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BB64CC-1DF1-4929-A13B-BEC590B0D8CF}|HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory.csproj|d:\\youtube videos\\1-dotnet\\httpclient-vs-httpclientfactory\\httpclient-vs-httpclientfactory\\httpclient-vs-httpclientfactory\\services\\userservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BB64CC-1DF1-4929-A13B-BEC590B0D8CF}|HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory.csproj|solutionrelative:httpclient-vs-httpclientfactory\\services\\userservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HttpClient-vs-HttpClientFactory.http",
+              "DocumentMoniker": "D:\\Youtube Videos\\1-DotNet\\httpclient-vs-httpclientfactory\\HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory.http",
+              "RelativeDocumentMoniker": "HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory.http",
+              "ToolTip": "D:\\Youtube Videos\\1-DotNet\\httpclient-vs-httpclientfactory\\HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory.http",
+              "RelativeToolTip": "HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-25T07:14:52.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Youtube Videos\\1-DotNet\\httpclient-vs-httpclientfactory\\HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory\\Program.cs",
+              "RelativeDocumentMoniker": "HttpClient-vs-HttpClientFactory\\Program.cs",
+              "ToolTip": "D:\\Youtube Videos\\1-DotNet\\httpclient-vs-httpclientfactory\\HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory\\Program.cs",
+              "RelativeToolTip": "HttpClient-vs-HttpClientFactory\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T07:06:59.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HttpClientFactoryController.cs",
+              "DocumentMoniker": "D:\\Youtube Videos\\1-DotNet\\httpclient-vs-httpclientfactory\\HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory\\Controllers\\HttpClientFactoryController.cs",
+              "RelativeDocumentMoniker": "HttpClient-vs-HttpClientFactory\\Controllers\\HttpClientFactoryController.cs",
+              "ToolTip": "D:\\Youtube Videos\\1-DotNet\\httpclient-vs-httpclientfactory\\HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory\\Controllers\\HttpClientFactoryController.cs",
+              "RelativeToolTip": "HttpClient-vs-HttpClientFactory\\Controllers\\HttpClientFactoryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T07:06:29.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserServiceFactory.cs",
+              "DocumentMoniker": "D:\\Youtube Videos\\1-DotNet\\httpclient-vs-httpclientfactory\\HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory\\Services\\UserServiceFactory.cs",
+              "RelativeDocumentMoniker": "HttpClient-vs-HttpClientFactory\\Services\\UserServiceFactory.cs",
+              "ToolTip": "D:\\Youtube Videos\\1-DotNet\\httpclient-vs-httpclientfactory\\HttpClient-vs-HttpClientFactory\\HttpClient-vs-HttpClientFactory\\Services\\UserServiceFactory.cs",
+              "RelativeToolTip": "HttpClient-vs-HttpClientFactory\\Services\\UserServiceFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T07:06:50.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@HttpClient_vs_HttpClientFactory_HostAddress = http://localhost:5261
+
+GET {{HttpClient_vs_HttpClientFactory_HostAddress}}/api/httpclientfactory/
+Accept: application/json
+
+###
